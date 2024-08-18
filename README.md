@@ -1,4 +1,4 @@
-**Fintech Loan Booking Automation**
+**Fintech Loan Booking Application**
 This project is an automation tool designed for the Fintech industry, specifically targeting the loan booking process. The application automates various aspects of loan management, including customer onboarding, collateral management, product handling, and more. By leveraging this tool, financial institutions can streamline their loan processing workflows, reduce manual errors, and enhance overall efficiency.
 
 **Major Modules**
