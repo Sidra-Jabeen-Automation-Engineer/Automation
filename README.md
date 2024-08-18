@@ -1,14 +1,12 @@
-Fintech Loan Booking Automation:
+**Fintech Loan Booking Automation**
 This project is an automation tool designed for the Fintech industry, specifically targeting the loan booking process. The application automates various aspects of loan management, including customer onboarding, collateral management, product handling, and more. By leveraging this tool, financial institutions can streamline their loan processing workflows, reduce manual errors, and enhance overall efficiency.
 
-Major Modules
-Customer Module:
+**Major Modules**
+**Customer Module**:
 
-Description: Manages customer profiles and integrates with the loan booking system to handle customer data, including personal information, credit scores, and loan histories.
+**Description:** Manages customer profiles and integrates with the loan booking system to handle customer data, including personal information, credit scores, and loan histories.
 Features: Customer onboarding, profile updates, and credit evaluation.
-Collateral Module:
-
-Description: Manages collateral details required for securing loans. This module automates the process of collateral registration, valuation, and verification.
+**Collateral Module:**  Manages collateral details required for securing loans. This module automates the process of collateral registration, valuation, and verification.
 Features: Collateral registration, valuation reports, and verification checks.
 Product Module:
 
